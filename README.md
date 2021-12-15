@@ -36,4 +36,11 @@ To execute the JAR file run:
 - 
 
 ## Contact
-Created by @klezner - feel free to contact me!coffee 
+Created by [@klezner](https://github.com/klezner) - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
