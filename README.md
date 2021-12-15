@@ -1,4 +1,4 @@
-# [Coffee Machine](https://hyperskill.org/projects/33) - project from [hyperskill.org](https://hyperskill.org) / JetBrains Academy
+# [Coffee Machine](https://hyperskill.org/projects/33) - project from [hyperskill.org](https://hyperskill.org) (JetBrains Academy)
 
 Simple coffee machine simulator.
 
